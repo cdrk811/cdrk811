@@ -12,6 +12,6 @@
 ![](https://github-profile-trophy.vercel.app/?username=cdrk811&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Jatioi&icon=2&color=6)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=cdrk811&label=Profile%20Views&color=0&icon=1&pretty=false)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
